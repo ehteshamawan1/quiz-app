@@ -1,0 +1,14 @@
+username,email,role,password,college_id,is_active
+admin,admin@nursequest.local,admin,ChangeMe123,,true
+educator1,educator1@nursequest.local,educator,ChangeMe123,,true
+educator2,educator2@nursequest.local,educator,ChangeMe123,,true
+student1,student1@nursequest.local,student,ChangeMe123,,true
+student2,student2@nursequest.local,student,ChangeMe123,,true
+student3,student3@nursequest.local,student,ChangeMe123,,true
+student4,student4@nursequest.local,student,ChangeMe123,,true
+student5,student5@nursequest.local,student,ChangeMe123,,true
+student6,student6@nursequest.local,student,ChangeMe123,,true
+student7,student7@nursequest.local,student,ChangeMe123,,true
+student8,student8@nursequest.local,student,ChangeMe123,,true
+student9,student9@nursequest.local,student,ChangeMe123,,true
+student10,student10@nursequest.local,student,ChangeMe123,,true

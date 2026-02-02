@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="128" viewBox="0 0 512 128">
+  <rect width="512" height="128" fill="none"/>
+  <circle cx="64" cy="64" r="44" fill="#1B4B5A"/>
+  <rect x="58" y="38" width="12" height="52" fill="#FFFFFF"/>
+  <rect x="38" y="58" width="52" height="12" fill="#FFFFFF"/>
+  <text x="128" y="78" font-family="Poppins, Arial, sans-serif" font-size="48" font-weight="700" fill="#1B4B5A">NurseQuest</text>
+</svg>

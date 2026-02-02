@@ -1,0 +1,1 @@
+ALTER TABLE game_questions ADD COLUMN IF NOT EXISTS allow_multiple BOOLEAN DEFAULT FALSE;

@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS system_settings (
+  id UUID PRIMARY KEY,
+  key VARCHAR(255) UNIQUE NOT NULL,
+  value JSONB DEFAULT '{}'::jsonb,
+  created_at TIMESTAMP DEFAULT NOW(),
+  updated_at TIMESTAMP DEFAULT NOW()
+);

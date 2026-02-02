@@ -1,0 +1,11 @@
+.nq-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 1.25rem;
+  box-shadow: 0 10px 24px rgba(27, 75, 90, 0.12);
+}
+
+.nq-card__title {
+  margin: 0 0 0.75rem 0;
+  color: #1b4b5a;
+}

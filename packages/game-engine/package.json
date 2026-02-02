@@ -1,0 +1,14 @@
+{
+  "name": "@nursequest/game-engine",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "echo \"no tests\"",
+    "lint": "echo \"no lint\""
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
